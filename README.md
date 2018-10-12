@@ -53,6 +53,7 @@ Signed,
 - Jacob Evans ([@jacobtheevans](https://github.com/jacobtheevans)), Developer
 - Sagiv Ofek ([@sagivo](https://github.com/sagivo)), algorithms playground maintainer
 - Josh Stanfield ([@p5k6](https://github.com/p5k6)), Data Engineer
+- Somnath Pal (https://github.com/WizArdZ3658), undergraduate, IIIT Kalyani
 - Daniel Lockard ([@daniellockard](https://github.com/daniellockard)), Developer
 - Vikash Tiwari ([@tiwarivikash](https://github.com/tiwarivikash)), Software Engineer
 - Anthony Pipkin ([@apipkin](https://github.com/apipkin)), Software Developer (across various teams and companies)
